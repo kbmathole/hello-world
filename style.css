@@ -1,0 +1,24 @@
+/* tag based selector */
+body{
+    color: black;
+    background-color: cornsilk;
+    font-family: cursive;
+}
+
+h1{
+   color: hotpink;
+}
+
+h2{
+    color: palegreen;
+}
+
+/* id based selector */
+#html-anatomy-heading{
+    color: rgb(218, 82, 218);
+}
+
+/* class based selector */
+.underline{
+    text-decoration: underline;
+}
